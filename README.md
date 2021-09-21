@@ -1,6 +1,6 @@
 # Descrição
 
-Rest API simples de usuários com Python e Flask aplicada no Postman.Possui os métodos GET(listar todos os usuários e listar usuários por id), POST(cadastrar usuario), PUT(atualizar usuários) e DELETE(deletar usuários por id).
+Rest API simples de usuários com Python e Flask aplicada no Postman.Possui os métodos GET(listar todos os usuários e listar usuários por id), POST(cadastrar usuario inserindo os dados: usuario_id, nome, idade e cidade), PUT(atualizar usuários) e DELETE(deletar usuários por id).
 
 
 # Configurando o ambiente
