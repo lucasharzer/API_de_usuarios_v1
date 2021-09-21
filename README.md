@@ -24,5 +24,9 @@ python principal.py
     <img src="https://user-images.githubusercontent.com/85804895/134165972-cb551563-d99b-48e4-8247-12bb35459c34.png", width=900>
 </span>
 
+<span align="center">
+    <img src="https://user-images.githubusercontent.com/85804895/134166088-e465e53f-064c-469a-94c0-aa01a148557d.png", width=900>
+</span>
+
 
 
