@@ -1,1 +1,5 @@
-"# API_de_usuarios_v1" 
+# Descrição
+
+Rest API simples de usuarios com Python e Flask aplicada no Postman
+
+# 
